@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Chaayos]">
+  <test name="Chaayos1(failed)">
+    <classes>
+      <class name="Testcases.SelectChaiTest">
+        <methods>
+          <include name="setup"/>
+          <include name="selectchaitest"/>
+        </methods>
+      </class> <!-- Testcases.SelectChaiTest -->
+      <class name="Testcases.HomepageTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.HomepageTest -->
+    </classes>
+  </test> <!-- Chaayos1(failed) -->
+</suite> <!-- Failed suite [Chaayos] -->
