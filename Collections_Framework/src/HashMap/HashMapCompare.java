@@ -8,6 +8,7 @@ public class HashMapCompare {
 		// TODO Auto-generated method stub
 		
 		HashMap<Integer, String> map1 = new HashMap<Integer, String>();
+		HashMap<Integer, String> map2 = new HashMap<Integer, String>();
 
 	}
 
